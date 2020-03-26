@@ -24,4 +24,8 @@ See options
 
 ```
     $ python ~/pysocks/socks5.py -h
+    $ python ~/pysocks/socks5.py start --port=1080 --auth=admin:123456
+
+键入消息
+
 ```
